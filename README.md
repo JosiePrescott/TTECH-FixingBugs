@@ -24,3 +24,5 @@ Fixes made in index.js
   Added a property to obj, error fixed
   Instead of + user, I added JSON.stringify(user), this fixed the error
   Added Number(num) to fix the error
+https://josieprescott.github.io/TTECH-FixingBugs/
+Above is the link to the working site.
