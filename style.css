@@ -1,0 +1,32 @@
+p {
+  font-size: larger;
+  /* Largeer is not a thing, fixed to be be larger */
+}
+
+h1 {
+/* Fontsize can't be written like like, has to be font-size */
+  font-size: 23xp;
+  color: purple;
+}
+
+.container {
+/* Corrected the spelling on conatiner to match the HTML page */
+/* Colro is not a thing, fixed the typo to be color */
+  color: red;
+  width: 500px;
+  height: 500px;
+  /* Fixed color output by copying and pasting the #output color */
+  background-color: #f0f0f0;
+}
+
+#output {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  /* Pudding is not a thing, changed it to padding */
+  padding: 10px;
+  border: 1px solid #000;
+  background-color: #f0f0f0;
+}
