@@ -4,7 +4,7 @@ p {
 }
 
 h1 {
-/* Fontsize can't be written like like, has to be font-size */
+/* Fontsize can't be written like that, has to be font-size */
   font-size: 23xp;
   color: purple;
 }
